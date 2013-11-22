@@ -1,10 +1,13 @@
 /** @jsx React.DOM */
 
+// backbone hoodie connector go!
 Backbone.hoodie.connect();
 
 var Todo = Backbone.Model.extend({
 
+  // backbone-hoodie needs this
   type: 'todo',
+  
   // Default attributes for the todo
   // and ensure that each todo created has `title` and `completed` keys.
   defaults: {
