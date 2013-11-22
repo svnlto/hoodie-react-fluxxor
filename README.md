@@ -1,6 +1,14 @@
+##### Installing this template:
+
+```
+hoodie new todomvc -t "hoodiehq/hoodie-react-todomvc"
+
+```
+
+
 # Creating a new Hoodie App
 
-## Installation
+## Installing Hoodie
 
 Please refer to the [install guides for OS X, Linux and Windows](http://hood.ie/#installation).
 
