@@ -1,8 +1,7 @@
 ##### Installing this template:
 
-```
+```bash
 hoodie new todomvc -t "hoodiehq/hoodie-react-todomvc"
-
 ```
 
 
