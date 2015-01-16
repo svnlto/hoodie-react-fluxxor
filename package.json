@@ -1,6 +1,6 @@
 {
-  "name": "hoodie-react-todomvc",
-  "version": "3.0.0",
+  "name": "hoodie-react-fluxxor",
+  "version": "1.0.0",
   "type": "app",
   "dependencies": {
     "hoodie-plugin-appconfig": "^2.0.1",
