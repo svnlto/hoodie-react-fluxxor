@@ -3,12 +3,10 @@
   "version": "3.0.0",
   "type": "app",
   "dependencies": {
-    "fluxxor": "^1.5.1",
     "hoodie-plugin-appconfig": "^2.0.1",
     "hoodie-plugin-email": "^1.0.0",
     "hoodie-plugin-users": "^2.1.0",
-    "hoodie-server": "^2.0.0",
-    "react": "^0.12.2"
+    "hoodie-server": "^2.0.0"
   },
   "files": [
     "www/"
@@ -28,6 +26,8 @@
     ]
   },
   "devDependencies": {
+    "react": "^0.12.2",
+    "fluxxor": "^1.5.1",
     "reactify": "^0.17.1",
     "watchify": "^2.2.1"
   }
